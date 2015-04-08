@@ -171,3 +171,6 @@ xcuserdata
 # symbolic link for lib of opencv in mac
 cv.py
 cv2.so
+
+__pycache__
+*.pyc
